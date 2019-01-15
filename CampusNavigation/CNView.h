@@ -8,6 +8,3 @@ public:
 	~CNView();
 };
 using namespace std;
-
-void D(int x, int y);
-void Dijkstra(string X, string Y);

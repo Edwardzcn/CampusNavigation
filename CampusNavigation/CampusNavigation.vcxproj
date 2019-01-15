@@ -115,13 +115,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Building.h" />
     <ClInclude Include="CNModel.h" />
     <ClInclude Include="CNView.h" />
+    <ClInclude Include="Place.h" />
+    <ClInclude Include="Record.h" />
+    <ClInclude Include="Site.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Building.cpp" />
     <ClCompile Include="CNModel.cpp" />
     <ClCompile Include="CNView.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Place.cpp" />
+    <ClCompile Include="Record.cpp" />
+    <ClCompile Include="Site.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
