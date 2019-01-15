@@ -118,6 +118,7 @@
     <ClInclude Include="Building.h" />
     <ClInclude Include="CNModel.h" />
     <ClInclude Include="CNView.h" />
+    <ClInclude Include="IndexPool.h" />
     <ClInclude Include="Place.h" />
     <ClInclude Include="Record.h" />
     <ClInclude Include="Site.h" />
@@ -126,6 +127,7 @@
     <ClCompile Include="Building.cpp" />
     <ClCompile Include="CNModel.cpp" />
     <ClCompile Include="CNView.cpp" />
+    <ClCompile Include="IndexPool.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Place.cpp" />
     <ClCompile Include="Record.cpp" />
