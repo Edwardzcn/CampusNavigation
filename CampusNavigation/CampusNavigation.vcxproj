@@ -115,9 +115,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="CNModel.h" />
+    <ClInclude Include="CNView.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CNModel.cpp" />
+    <ClCompile Include="CNView.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
