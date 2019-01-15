@@ -14,6 +14,6 @@ public:
 	void setPosition(int x, int y);
 	void reset();
 	virtual void show() = 0;
-	~Place();
+	virtual ~Place();
 };
 

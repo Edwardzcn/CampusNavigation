@@ -36,6 +36,9 @@
     <ClInclude Include="IndexPool.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Normal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -60,6 +63,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="IndexPool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Normal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

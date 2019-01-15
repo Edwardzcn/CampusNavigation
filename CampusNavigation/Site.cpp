@@ -42,10 +42,6 @@ void Site::show()
 
 }
 
-void Site::reset(int x, int y, std::string name, std::string info, bool edit) {
-	this->reset(x, y, name, info, edit);
-}
-
 Site::~Site()
 {
 

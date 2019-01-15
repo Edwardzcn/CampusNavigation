@@ -11,7 +11,7 @@ protected:
 public:
 
 	Site(int x,int y,std::string name,std::string info,bool edit);
-	void reset();
+	//void reset();
 	//void reset(bool edit);
 	//void reset(int x, int y);
 	//void reset(std::string name);
