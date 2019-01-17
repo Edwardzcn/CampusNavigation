@@ -5,7 +5,7 @@ IndexPool::IndexPool(int size)
 	this->poolMaxSize = size;
 	IndexPoolNode* pre = NULL, *now = NULL;
 	this->poolHead = new IndexPoolNode;
-	this->poolTail = this->poolHead;
+	//this->poolTail = this->poolHead;
 	//initial
 	pre = now = poolHead;
 	pre->id = -1;
@@ -15,7 +15,7 @@ IndexPool::IndexPool(int size)
 		now->id = i;
 		now->nextid = NULL;
 		pre->nextid = now;
-
+		pre = pre->nextid;
 	}
 	this->poolNowSize = size;
 	
@@ -52,4 +52,46 @@ int IndexPool::poolPopIndex()
 	delete p;
 	this->poolNowSize--;
 	return tempid;
+}
+
+void IndexPool::poolResize(int size) {
+	IndexPoolNode *p = this->poolHead, *q;
+	while (p != NULL) {
+		q = p;
+		p = p->nextid;
+		delete q;
+	}
+	this->poolMaxSize = size;
+	IndexPoolNode* pre = NULL, *now = NULL;
+	this->poolHead = new IndexPoolNode;
+	//this->poolTail = this->poolHead;
+	//initial
+	pre = now = poolHead;
+	pre->id = -1;
+	pre->nextid = NULL;
+	for (int i = 0; i < size; i++) {
+		now = new IndexPoolNode;
+		now->id = i;
+		now->nextid = NULL;
+		pre->nextid = now;
+		pre = pre->nextid;
+	}
+	this->poolNowSize = size;
+}
+
+void IndexPool::poolDelete(int index) {
+	IndexPoolNode* pre = NULL, *now = NULL;
+	pre = poolHead;
+	now = poolHead->nextid;
+	while (now!=NULL) {
+		if (now->id == index) {
+			//执行删除操作
+			pre->nextid = now->nextid;
+			delete now;
+			return;
+		}
+		pre = now;
+		now = now->nextid;
+		
+	}
 }

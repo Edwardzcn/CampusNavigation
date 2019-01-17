@@ -9,9 +9,12 @@ class IndexPool
 	int poolMaxSize;
 	int poolNowSize;
 	IndexPoolNode* poolHead;
-	IndexPoolNode* poolTail;
+	//IndexPoolNode* poolTail;
 public:
 	IndexPool(int size);
+	void poolResize(int size);
+	void poolDelete(int index);
+
 	~IndexPool();
 	//先不提供检错
 	void poolPushIndex(int index);

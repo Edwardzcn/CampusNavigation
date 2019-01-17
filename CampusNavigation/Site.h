@@ -5,11 +5,12 @@ class Site :
 	public Place
 {
 protected:
-	std::string siName;
-	std::string siInfo;
+	//std::string siName;
+	//std::string siInfo;
 	//欠缺一个图片类
 public:
-
+	std::string siName;
+	std::string siInfo;
 	Site(int x,int y,std::string name,std::string info,bool edit);
 	//void reset();
 	//void reset(bool edit);

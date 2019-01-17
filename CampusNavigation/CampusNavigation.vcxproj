@@ -121,7 +121,6 @@
     <ClInclude Include="IndexPool.h" />
     <ClInclude Include="Normal.h" />
     <ClInclude Include="Place.h" />
-    <ClInclude Include="Record.h" />
     <ClInclude Include="Site.h" />
   </ItemGroup>
   <ItemGroup>
@@ -132,7 +131,6 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Normal.cpp" />
     <ClCompile Include="Place.cpp" />
-    <ClCompile Include="Record.cpp" />
     <ClCompile Include="Site.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

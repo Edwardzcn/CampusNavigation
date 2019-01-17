@@ -1,0 +1,58 @@
+20
+0   Building  9   16   ÍÛeWrSaV¹þ¹þ   XZLMK¹þ¹þ   upPMXjkoN   
+2   Site  189   182   ÍÛHkEZT¹þ¹þ   SpnCp
+3   Site  94   174   ÍÛRdDOI¹þ¹þ   BNpSxiv
+4   Site  92   149   ÍÛUchTeSXTx¹þ¹þ   tPZyIiqh
+5   Site  94   16   ÍÛtarikgv¹þ¹þ   OwcIl
+6   Building  122   16   ÍÛfHPVrBOQ¹þ¹þ   UCGSe¹þ¹þ   hbxDEGy   
+7   Site  4   155   ÍÛwuOEGx¹þ¹þ   bVGYClhJp
+8   Site  37   56   ÍÛOZNfBUzUh¹þ¹þ   AwLPaT
+9   Site  174   17   ÍÛgIjxo¹þ¹þ   KUphgDmBW
+10   Building  71   68   ÍÛwipNTTgi¹þ¹þ   KrwzXivD¹þ¹þ   QDTWZkI   
+11   Normal  163   165
+12   Building  25   185   ÍÛaYlYMP¹þ¹þ   HOKXftr¹þ¹þ   KRAMsagct   
+13   Normal  100   123
+14   Normal  91   95
+15   Site  72   94   ÍÛZmywnbVRe¹þ¹þ   YXcskRgNX
+16   Normal  57   78
+17   Site  37   76   ÍÛiXsEDB¹þ¹þ   KIswl
+18   Site  96   101   ÍÛqtScuMSl¹þ¹þ   BrWBTfNR
+19   Site  134   16   ÍÛklxYLmqT¹þ¹þ   FAduE
+20   Building  0   0   ²âÊÔÌí¼ÓµÄ   ²âÊÔÐÅÏ¢infolsiadufhds²»À±²»À±±Èbualaidufasioaijsasda¼ÙÈç¼ÙÈç²âÊÔ²âÊÔ   ÖÐ¹úºþÄÏ³¤É³ÔÀÂ´Çø×ó¼ÒlongÄÐ×ÓÖ°ÒµÑ§Ôº   123654789
+36
+0   5
+0   18
+0   19
+2   7
+2   8
+2   9
+2   10
+3   9
+3   10
+4   12
+4   16
+4   17
+5   6
+5   9
+5   15
+5   19
+6   9
+6   10
+6   11
+6   12
+6   14
+6   16
+7   8
+7   17
+8   18
+9   10
+9   12
+10   16
+10   19
+11   12
+11   18
+12   16
+12   19
+13   15
+16   17
+18   19

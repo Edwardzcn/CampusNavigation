@@ -1,0 +1,62 @@
+20
+0  Building  9  16  陽eWrSaV込込  XZLMK込込  CqfJZEt込込  upPMXjkoN
+1  Normal  36  195
+2  Site  189  182  陽HkEZT込込  SpnCp
+3  Site  94  174  陽RdDOI込込  BNpSxiv
+4  Site  92  149  陽UchTeSXTx込込  tPZyIiqh
+5  Site  94  16  陽tarikgv込込  OwcIl
+6  Building  122  16  陽fHPVrBOQ込込  UCGSe込込  NvwceODY込込  hbxDEGy
+7  Site  4  155  陽wuOEGx込込  bVGYClhJp
+8  Site  37  56  陽OZNfBUzUh込込  AwLPaT
+9  Site  174  17  陽gIjxo込込  KUphgDmBW
+10  Building  71  68  陽wipNTTgi込込  KrwzXivD込込  hijFOFZAY込込  QDTWZkI
+11  Normal  163  165
+12  Building  25  185  陽aYlYMP込込  HOKXftr込込  pPqcLzmcB込込  KRAMsagct
+13  Normal  100  123
+14  Normal  91  95
+15  Site  72  94  陽ZmywnbVRe込込  YXcskRgNX
+16  Normal  57  78
+17  Site  37  76  陽iXsEDB込込  KIswl
+18  Site  96  101  陽qtScuMSl込込  BrWBTfNR
+19  Site  134  16  陽klxYLmqT込込  FAduE
+40
+5  9
+1  11
+3  10
+6  14
+0  18
+18  19
+4  12
+10  19
+1  15
+12  19
+11  12
+7  17
+5  19
+6  12
+1  17
+8  18
+13  15
+6  11
+0  19
+5  6
+9  12
+2  7
+6  10
+16  17
+6  9
+0  5
+2  9
+7  8
+3  9
+11  18
+6  16
+12  16
+4  16
+9  10
+2  10
+4  17
+5  15
+10  16
+1  7
+2  8
